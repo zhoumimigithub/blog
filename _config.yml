@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "咖啡兔的博客"
+title                    : "咖啡兔的博客1"
 title_separator          : "-"
 name                     : &name "咖啡兔"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
