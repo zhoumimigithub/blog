@@ -1,3 +1,3 @@
-# 咖啡兔的博客
+# 学习博客项目
 
-Theme: https://mmistakes.github.io/minimal-mistakes
+Theme: [https://zhoumimigithub.github.io/blog]https://zhoumimigithub.github.io/blog
