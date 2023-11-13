@@ -12,8 +12,8 @@ excerpt: '视频剪辑（副业）分享<br /> <small><a href="https://poster.zg
 feature_row:
   - image_path: video_clips/home.jpg
     alt: "customizable"
-    title: "众创剧场"
-    excerpt: "闲暇时间剪辑短视频，风口副业轻松赚米好方法！"
+    title: "短剧、短视频剪辑"
+    excerpt: "闲暇时间剪辑短剧或短视频，利用《风口》副业轻松赚米好方法！"
     url: "/video_clips_share.html"
     btn_label: "了解更多"
   - image_path: activiti-in-action-small.jpg
