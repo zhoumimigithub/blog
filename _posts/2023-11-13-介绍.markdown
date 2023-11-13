@@ -2,7 +2,7 @@
 title: "开始学习jekyll博客的记录"
 wordpress_id: 12
 wordpress_url: http://wsria.com/?p=12
-date: 2009-02-07 18:24:46 +08:00
+date: 2023-11-13 18:24:46 +08:00
 categories: 日记
 tags: 
  - 日记
