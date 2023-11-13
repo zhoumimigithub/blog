@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: unsplash-image-3.jpg
   caption:
-excerpt: '深入研究，覆盖领域：Serverless/FaaS、Kubernetes、Docker，BPM Platform Activiti.<br /> <small><a href="https://github.com/henryyan/activiti-in-action-codes">《Activiti实战》配套源码</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=henryyan&repo=activiti-in-action-codes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=henryyan&repo=activiti-in-action-codes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: '学习和分享：好用框架、好物分享、视频剪辑副业分享<br /> <small><a href="https://github.com/henryyan/activiti-in-action-codes">《Activiti实战》配套源码</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
@@ -26,7 +26,7 @@ feature_row:
     url: "/activiti-in-action.html"
     btn_label: "Learn More"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=activiti-in-action-codes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: while (true) { share() }
 ---
