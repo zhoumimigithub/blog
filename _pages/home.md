@@ -7,12 +7,12 @@ header:
   caption:
 excerpt: '学习和分享：好用框架、好物分享、视频剪辑副业分享<br /> <small><a href="https://github.com/henryyan/activiti-in-action-codes">《Activiti实战》配套源码</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Serverless"
-    excerpt: "下一次革命即将来袭，把握未来！"
-    url: "/category/serverless"
-    btn_label: "Learn More"
+  # - image_path: mm-customizable-feature.png
+  #   alt: "customizable"
+  #   title: "Serverless"
+  #   excerpt: "下一次革命即将来袭，把握未来！"
+  #   url: "/category/serverless"
+  #   btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "K8s + Docker"
