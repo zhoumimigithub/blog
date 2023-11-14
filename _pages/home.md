@@ -5,17 +5,17 @@ header:
   overlay_color: "#5e616c"
   overlay_image: unsplash-image-3.jpg
   caption:
-excerpt: '学习分享：好用框架'
-excerpt: '好物分享：好物分享'
-excerpt: '视频剪辑（副业）分享<br /> <small><a href="https://poster.zgqlkj.com/?invitationQr=DLBIEX4M">《众创剧场》平台-视频剪辑（副业）</a></small>'
+	excerpt: '学习分享：好用框架'
+	excerpt: '好物分享：好物分享'
+	excerpt: '视频剪辑（副业）分享<br /> <small><a href="https://poster.zgqlkj.com/?invitationQr=DLBIEX4M">《众创剧场》平台-视频剪辑（副业）</a></small>'
 # excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  # - image_path: mm-customizable-feature.png
-  #   alt: "customizable"
-  #   title: "Serverless"
-  #   excerpt: "下一次革命即将来袭，把握未来！"
-  #   url: "/category/serverless"
-  #   btn_label: "Learn More"
+  - image_path: video_clips/home.jpg
+    alt: "customizable"
+    title: "短剧、短视频剪辑"
+    excerpt: "闲暇时间剪辑短剧或短视频，利用《风口》副业轻松赚米好方法！"
+    url: "/video_clips_share.html"
+    btn_label: "了解更多"
   - image_path: activiti-in-action-small.jpg
     alt: "《Activiti实战》"
     title: "《Activiti实战》"
