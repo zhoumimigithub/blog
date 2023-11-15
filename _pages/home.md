@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: unsplash-image-3.jpg
   caption:
-  excerpt: '学习分享：好用框架<br />好物分享：好物分享<br />视频剪辑（副业）分享<br /> <small><a href="https://poster.zgqlkj.com/?invitationQr=DLBIEX4M">《众创剧场》平台-视频剪辑（副业）</a></small>'
+excerpt: '学习分享：好用框架<br />好物分享：好物分享<br />视频剪辑（副业）分享<br /> <small><a href="https://poster.zgqlkj.com/?invitationQr=DLBIEX4M">《众创剧场》平台-视频剪辑（副业）</a></small>'
 # excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=zhoumimigithub&repo=blog&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: video_clips/home.jpg
