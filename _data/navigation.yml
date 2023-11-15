@@ -3,6 +3,9 @@ main:
   - title: "博客"
     url: /blog.html
 
+  - title: "剪辑"
+    url: /collection-archive/
+	
   - title: "分类"
     url: /categories/
 
