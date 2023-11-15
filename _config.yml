@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "蜂朝博客"
+title                    : "蜂朝-创克贴"
 title_separator          : "-"
-name                     : &name "zhoumimigithub"
+name                     : &name "创克贴"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : "https://zhoumimigithub.github.io/blog/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
