@@ -1,3 +1,5 @@
+<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js"></script>
+
 ---
 permalink: /about.html
 title: "About"
